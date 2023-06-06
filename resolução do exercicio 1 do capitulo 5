@@ -356,7 +356,7 @@ int main()
         printf("\nOrdem decrescente: %d>%d>%d>%d",d,c,a,b);}
     if(d>c && c>b && b>a){
         printf("Ordem crescente: %d>%d>%d>%d",a,b,c,d);
-        printf("\nOrdem decrescente: %d>%d>%d>%d12",d,c,b,a);}
+        printf("\nOrdem decrescente: %d>%d>%d>%d",d,c,b,a);}
 
 
     return 0;
